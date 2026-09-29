@@ -44,5 +44,4 @@ The goal of this project is to predict whether a tumor is **malignant (cancerous
    ```bash
    git clone https://github.com/<your-username>/CodeAlpha-Task4-Disease-Prediction.git
 
-📌 Internship Note
-This project is part of the Code Alpha Internship – Task 4 and demonstrates the use of machine learning algorithms for predicting diseases using structured medical datasets.
+
